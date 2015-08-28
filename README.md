@@ -1,5 +1,7 @@
-# syati.github.io
+# main
+
+http://syati.info
 
 ## blog
 
-http://syati.github.io/blog
+http://blog.syati.info
